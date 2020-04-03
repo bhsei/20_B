@@ -4597,7 +4597,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "开发者",
+					"name": "用户",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -4928,7 +4928,7 @@
 											"top": 360,
 											"width": 41.17724609375,
 											"height": 13,
-											"text": "开发者"
+											"text": "用户"
 										},
 										{
 											"_type": "LabelView",
